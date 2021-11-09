@@ -1,7 +1,7 @@
 #define AG_ADI "xxxxxxxxxxxxxx"
 #define PAROLA "xxxxxxxxxx"
 //#define sensorPin 0 // LM35'i A0 pinine takıyoruz.
-String API_KEY("I7C5YFJAZ1Q6B44F"); // Buraya Thingspeak üzerinden aldığınız API Key gelecek.
+String API_KEY("xxxxxxxxxxx"); // Buraya Thingspeak üzerinden aldığınız API Key gelecek.
 #define IP "184.106.153.149" // thingspeak.com IP adresi
 
 #include "DHT.h"//sıcaklık sensörünün kütüphanesi
