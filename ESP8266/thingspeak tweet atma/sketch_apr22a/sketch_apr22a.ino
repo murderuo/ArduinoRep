@@ -90,7 +90,7 @@ void twitAt() {
 
   tweet += 32 + durum.length();
   tweet += "\r\n\r\n";
-  tweet += String("api_key=M17IXWLTBZU4NDWT");                           //ThingSpeak'den aldığımız Twitter API KEY'ini buraya yazıyoruz.
+  tweet += String("api_key=xxxxxxxxxxxx");                           //ThingSpeak'den aldığımız Twitter API KEY'ini buraya yazıyoruz.
   tweet += String("&status=");
 
   tweet += durum; //twiti String olarak ekliyoruz
